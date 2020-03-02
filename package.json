@@ -1,0 +1,20 @@
+{
+  "name": "automacaoqaninjaprojeto2",
+  "version": "1.0.0",
+  "description": "Projeto de teste com nigthwatch",
+  "main": "index.js",
+  "scripts": {
+    "test": ".\\node_modules\\.bin\\nightwatch.cmd"
+  },
+  "keywords": [
+    "qaninja",
+    "nodejs",
+    "night"
+  ],
+  "author": "Izac",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^80.0.1",
+    "nightwatch": "^1.3.4"
+  }
+}
